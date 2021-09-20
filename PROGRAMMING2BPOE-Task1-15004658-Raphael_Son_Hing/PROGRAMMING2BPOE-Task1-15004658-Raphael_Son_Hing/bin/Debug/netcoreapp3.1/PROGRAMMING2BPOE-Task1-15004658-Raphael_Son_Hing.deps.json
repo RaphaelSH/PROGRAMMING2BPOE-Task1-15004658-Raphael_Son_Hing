@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PROGRAMMING2BPOE-Task1-15004658-Raphael_Son_Hing/1.0.0": {
+        "runtime": {
+          "PROGRAMMING2BPOE-Task1-15004658-Raphael_Son_Hing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROGRAMMING2BPOE-Task1-15004658-Raphael_Son_Hing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
